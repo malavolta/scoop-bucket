@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/malavolta/DeployDeck/releases/download/v0.1.0/DeployDeck_0.1.0_windows_amd64.zip",
+            "bin": [
+                "deploydeck.exe"
+            ],
+            "hash": "55b9d040743666acd9b5100a8ed7d8497e5fe5d7a44a0e706f984f093015ef52"
+        },
+        "arm64": {
+            "url": "https://github.com/malavolta/DeployDeck/releases/download/v0.1.0/DeployDeck_0.1.0_windows_arm64.zip",
+            "bin": [
+                "deploydeck.exe"
+            ],
+            "hash": "469c3b3a127a4a4e19f6a6afa69cc755ff971721aab109d82d2226353bbfe342"
+        }
+    },
+    "homepage": "https://github.com/malavolta/DeployDeck",
+    "license": "Apache-2.0",
+    "description": "Go TUI orchestrating Salesforce commit promotion via git cherry-picks"
+}
