@@ -1,19 +1,19 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/malavolta/DeployDeck/releases/download/v1.1.0/DeployDeck_1.1.0_windows_amd64.zip",
+            "url": "https://github.com/malavolta/DeployDeck/releases/download/v1.2.0/DeployDeck_1.2.0_windows_amd64.zip",
             "bin": [
                 "deploydeck.exe"
             ],
-            "hash": "ff80b51d102398ad6fd84fd696d6e77658c822d66a0b64376bc9a00e262cd9a0"
+            "hash": "208dbd796f472715c8022e0f6c1f1abe24fbc43f8b93f083d8dfc14e144b7f1f"
         },
         "arm64": {
-            "url": "https://github.com/malavolta/DeployDeck/releases/download/v1.1.0/DeployDeck_1.1.0_windows_arm64.zip",
+            "url": "https://github.com/malavolta/DeployDeck/releases/download/v1.2.0/DeployDeck_1.2.0_windows_arm64.zip",
             "bin": [
                 "deploydeck.exe"
             ],
-            "hash": "188ba78d9396cb777e32203e0ab5b6a5a7adfd2350a67086c20e1d92975f0cdd"
+            "hash": "8c7fb2c9891baf4c5521a3c2c7d6011f6a436edce1ffaa83167dc023c10d2b58"
         }
     },
     "homepage": "https://github.com/malavolta/DeployDeck",
